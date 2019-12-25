@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/grid/base-biz.iml" filepath="$PROJECT_DIR$/grid/base-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grid/demo.iml" filepath="$PROJECT_DIR$/grid/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-use/demo-use.iml" filepath="$PROJECT_DIR$/demo-use/demo-use.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grid/grid.iml" filepath="$PROJECT_DIR$/grid/grid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grid-starter/grid-starter.iml" filepath="$PROJECT_DIR$/grid-starter/grid-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-use/service-app.iml" filepath="$PROJECT_DIR$/demo-use/service-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/手写spring-boot-starter机制.iml" filepath="$PROJECT_DIR$/.idea/手写spring-boot-starter机制.iml" />
+    </modules>
+  </component>
+</project>
