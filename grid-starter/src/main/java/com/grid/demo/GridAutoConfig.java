@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.grid.demo;
 
 import org.springframework.boot.autoconfigure.condition.ConditionalOnClass;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;

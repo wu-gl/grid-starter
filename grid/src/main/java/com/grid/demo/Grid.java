@@ -1,9 +1,10 @@
-package com.example.demo;
+package com.grid.demo;
 
-import org.springframework.boot.context.properties.ConfigurationProperties;
+public class Grid {
 
-@ConfigurationProperties(prefix = "com.grid")
-public class GridProperties {
+    private String name;
+    private int age;
+
     public String getName() {
         return name;
     }
@@ -19,8 +20,4 @@ public class GridProperties {
     public void setAge(int age) {
         this.age = age;
     }
-
-    private String name;
-    private int age;
-
 }
